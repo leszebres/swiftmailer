@@ -1,5 +1,5 @@
 {
-    "name": "drupal/swiftmailer",
+    "name": "leszebres/swiftmailer",
     "description": "Swiftmailer",
     "type": "drupal-module",
     "license": "GPL-2.0+",
