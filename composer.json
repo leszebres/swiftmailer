@@ -1,0 +1,12 @@
+{
+    "name": "drupal/swiftmailer",
+    "description": "Swiftmailer",
+    "type": "drupal-module",
+    "license": "GPL-2.0+",
+    "require": {
+      "drupal/mailsystem": "^4",
+      "swiftmailer/swiftmailer": "~5.4.5",
+      "html2text/html2text": "~4.0.1",
+      "tijsverkoyen/css-to-inline-styles": "^2.2"
+    }
+}
