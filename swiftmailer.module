@@ -79,7 +79,9 @@ function swiftmailer_theme_suggestions_swiftmailer(array $variables) {
   $suggestions = [];
   $suggestions[] = 'swiftmailer__' . $variables['message']['module'];
   $suggestions[] = 'swiftmailer__' . $variables['message']['module'] . '__' . strtr($variables['message']['key'], '-', '_');
-  return $suggestions;
+
+    return $suggestions; // sérieusement ???
+
 }
 
 /**
